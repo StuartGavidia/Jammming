@@ -1,6 +1,6 @@
 const clientId = '96d42a4473494f5db9fd2540eea31fa4'
 //for project site
-const redirectUri = 'http://stuartgavidia.github.io/jammming'
+const redirectUri = 'https://stuartgavidia.github.io/jammming/'
 //for local host
 //const redirectUri = 'http://localhost:3000/'
 let accessToken
